@@ -22,7 +22,6 @@ public class Menu {
             for (Producto producto : productos) {
                 System.out.println(producto.getNombre());
             }
-            System.out.println("Precio:");
         }
     }
 }
